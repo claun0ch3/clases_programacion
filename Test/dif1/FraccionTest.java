@@ -1,4 +1,4 @@
-package Test;
+package Test.dif1;
 
 import dif1.model.Fraccion;
 
