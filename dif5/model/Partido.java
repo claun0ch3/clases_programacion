@@ -43,6 +43,10 @@ public class Partido {
         }
     }
 
+    public Jugador getGanador() {
+        return ganador;
+    }
+
     @Override
     public String toString() {
         StringBuilder resultado = new StringBuilder();
